@@ -13,12 +13,7 @@ This is a repository for the tasks given in the Bytewise Deep Learning fellowshi
 
 
 ## 🛠 Skills
-Deep Learning, Machine Learning, Project Management, Data Science, Keras, Pandas, Numpy, Scikit Learn, Matplotlib
-
-
-## Tech Stack
-
-**Language:** Python
+Python, Deep Learning, Machine Learning, Project Management, Data Science, Keras, Pandas, Numpy, Scikit Learn, Matplotlib
 
 
 ## Authors
